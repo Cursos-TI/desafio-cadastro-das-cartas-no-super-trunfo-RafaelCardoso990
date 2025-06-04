@@ -85,6 +85,4 @@ int main() {
     printf("Pontos Turísticos: %d\n", pontosTuristicosCarta2);
 
     return 0;
-
-    return 0;
 }
